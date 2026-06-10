@@ -4,7 +4,7 @@
     "branch": "version-16"
   },
   {
-    "url": "https://github.com/brunoobueno/erpnext_fiscal_br",
-    "branch": "main"
+    "url": "https://github.com/rogerionoronha/erpnext_fiscal_br",
+    "branch": "feature/nfe-simples-nacional"
   }
 ]
